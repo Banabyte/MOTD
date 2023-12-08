@@ -1,6 +1,6 @@
 # Message of the Day
 ## Welcome Back to Family Guy DarkRP Returns™ on Banabyte Network®
-[Rules](comingsoon.tm) | [How to Play](comingsoon.tm) | [Discord](https://discord.gg/banabyte) | [Store](https://store.banabyte.com) | [Donate](https://paypal.me/wegj1)
+[Rules](/rule/FGDRP.md) | [How to Play](comingsoon.tm) | [Discord](https://discord.gg/banabyte) | [Store](https://store.banabyte.com) | [Donate](https://paypal.me/wegj1)
 
 ## Happy Holidays Everyone!
 I want to share exciting news with you all. We've dedicated time to enhance the server experience. In just under 3 days, we proudly present Family Guy DarkRP V6, codenamed Family Guy DarkRP Returns.
