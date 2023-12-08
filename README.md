@@ -1,35 +1,47 @@
-# Family Guy DarkRP Returns
-[Rules](comingsoon.tm) | [How to Play](comingsoon.tm) | [Discord](https://discord.gg/banabyte) | [Store](https://store.banabyte.com)
+# Message of the Day
+## Family Guy DarkRP Returns™ By Banabyte Network®
+[Rules](comingsoon.tm) | [How to Play](comingsoon.tm) | [Discord](https://discord.gg/banabyte) | [Store](https://store.banabyte.com) | [Donate](https://paypal.me/wegj1)
 
-## Message of the Day
-Merry Christmas, everyone! We're excited to announce the grand reopening of the Family Guy DarkRP server. It's been a challenging two years since our initial reopening, but we're proud to bring back the infamous Family Guy DarkRP.
+## Happy Holidays Everyone
+I've just wanted to let you guys know, we've took the time to prepare this server.<br>
+In under 3 days, We've created Family Guy DarkRP V6 (Codenamed: Family Guy DarkRP Returns)<br>
 
-### What's New
-#### First of All
-We've added a plethora of cool new weapons to the server, including lightsabers, Star Wars guns, more m9k items, a variety of new zero's stuff, UWeed, a new Hud, and Tab Menu that no longer lags the game.
+## So Whats new?
+### The Map
+For the longest period of time, we've been playing on rp_simplytown_v2. So, it was time for a changeup in maps, Your now playing on rp_downtown_modern.<br>
 
-#### Second
-We've bid farewell to the small map rp_simplytown. While it served us well, it was time for a change. A big thank you to those who supported us during its duration and contributed to our growth.
+### Weapon Packs
+For the longest period of time, we've strictly stuck to m9k for the longest period of time. It was great, but not fun for all players to enjoy.<br>
+So we've been mixing and matching to the community's like. For Example: Star Wars Weapons, Lightsavers, CS:GO Knifes, and m9k. (if you have a suggestion please leave it in the discord server so we can review and add it into the server)<br>
 
-#### Third
-We're changing how the MOTD works. Instead of being greeted by the server rules, you will now encounter a new Message of the Day board with three buttons at the top: Rules, How to Play, Discord, and Store.
+### Vehicals
+Yes Vehicals, we're adding back vehical packsm into the server. (due to the size of the map, we're going to return sales of vehicals)<br>
 
-- **Rules:** Guides you on what you can and cannot do.
-- **How to Play:** Provides guidance on starting and playing the game, serving as a refresher or a guide for specific roles.
-- **Discord:** Links you to our Discord page.
-- **Store:** An optional button for supporting the community through purchases or sales.
+### Jobs
+We've currently added brand new jobs into the server for Example<br>
+  - PyroTechnic
+  - Weed Grower
+  - Meth Master
+  - Mayor West
+  - Officer Joe (no longer seperate)
+  - And so much more will be added soon
 
-#### Last but Not Least
-We want to honor our old staff who helped shape the community we are today. Although they've moved on to greater endeavors, if you come across them on other servers, give them a shoutout! Here are some of them:
+### RNG Battle system (MMOStyle)
+A new system is now being introduced to the server which is an RNG based Battle Style.<br>
+Players will now have dodge and random crits registered in the system.<br>
 
-- [Alpaps](https://steamcommunity.com/id/alpaps)
-- [LionDaDev](https://steamcommunity.com/id/liondadev/)
-- [Agent](https://steamcommunity.com/profiles/76561198437614793)
-- [Averdime](https://steamcommunity.com/id/Averdime)
-- [Tyra](https://steamcommunity.com/id/TyraTheCat)
-- [Mumbo](https://steamcommunity.com/profiles/76561197971857361)
-- [G.Mitchell](https://steamcommunity.com/profiles/76561198074284927)
-- [WarToWin](https://steamcommunity.com/id/war_to_win)
-- [Neon](https://steamcommunity.com/profiles/76561198274190506)
+Players will have a 35% chance of dodging PvP attacks <br>
+Players will also have a 12% chance at dealing critical damage in Pvp Combat <br>
 
-And 41 other members who have contributed to this project.
+### Loading Screen
+The loading screen has been changed to a holiday theme for a temporary amount of time.<br>
+
+### Economics
+Players will start with 300k Dollars to spend around the town<br>
+Players will also recive double salary durring the holidays <br>
+Players will also recive x2.5 outcome on all casino earnings <br>
+Players will earn double for Jobs related earnings <br>
+
+### PS: For new Players
+If you are new to the server and don't know how to play it please consider looking into the following links provided to you here<br>
+[Rules](comingsoon.tm) | [How to Play](comingsoon.tm) | [Discord](https://discord.gg/banabyte) | [Store](https://store.banabyte.com) | [Donate](https://paypal.me/wegj1)
