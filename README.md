@@ -1,16 +1,20 @@
 # Message of the Day
+
 ## Welcome Back to Family Guy DarkRP Returns™ on Banabyte Network®
-[Rules](/Rules/FGDRP.MD) | [How to Play](/howtoplay/FGDRP.md) | [Discord](https://discord.gg/banabyte) | [Store](https://store.banabyte.com) | [Donate](https://paypal.me/wegj1)
+
+[Rules](/Rules/FGDRP.MD) | [How to Play](/howtoplay/FGDRP.md) | [Discord](https://discord.gg/rewSwusjZm) | [Store](https://store.banabyte.com) | [Donate](https://paypal.me/wegj1)
 
 ## Happy Holidays Everyone!
-I want to share exciting news with you all. We've dedicated time to enhance the server experience. In just under 3 days, we proudly present Family Guy DarkRP V6, codenamed Family Guy DarkRP Returns.
+
+I'm thrilled to share some exciting news with you all. We've dedicated time to enhance the server experience, and in just under 3 days, we proudly present Family Guy DarkRP V6, codenamed Family Guy DarkRP Returns.
 
 ## What's New?
+
 ### The Map
-After spending considerable time on rp_simplytown_v2, it was time for a fresh map. You're now exploring rp_downtown_modern.
+After spending considerable time on `rp_simplytown_v2`, it was time for a fresh map. You're now exploring `rp_downtown_modern`.
 
 ### Weapon Packs
-We've expanded beyond the long-standing use of m9k to cater to diverse player preferences. Expect a mix, including Star Wars Weapons, Lightsabers, CS:GO Knives, and m9k. Have a suggestion? Share it on the Discord server for review and possible addition.
+We've expanded beyond the long-standing use of `m9k` to cater to diverse player preferences. Expect a mix, including Star Wars Weapons, Lightsabers, CS:GO Knives, and `m9k`. Have a suggestion? Share it on the Discord server for review and possible addition.
 
 ### Vehicles
 Yes, vehicles are making a comeback! Due to the map size, vehicle packs are returning, and sales of vehicles will resume.
